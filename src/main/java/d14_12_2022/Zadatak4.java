@@ -10,7 +10,7 @@ import java.util.Scanner;
 // Objasnjenje formule: Ako je x manje od 2, y je jednako x
 //			           Ako je x u opsegu od 2 do 10, y je jednako 2
 //			           Ako je x vece od 10, y je x-1
-public class Zadarak4 {
+public class Zadatak4 {
     public static void main(String[] args) {
 
         Scanner s = new Scanner(System.in);

@@ -29,6 +29,7 @@ public class Zadatak4 {
             int broj = s.nextInt();
              brojevi.add(broj);
         }
+
         System.out.println("Unesite x: ");
         int x = s.nextInt();
         System.out.println("Rezultat: Elementi niza A koji su jednaki broju X imaju indekse: ");

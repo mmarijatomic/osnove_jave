@@ -16,5 +16,6 @@ public class Zadatak1 {
     System.out.println(ImeIPrezime);
     System.out.println(BrojTelefona + " "+ UlicaIBroj + " " + Grad);
     System.out.println(Email);
+
 }
 }
